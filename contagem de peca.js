@@ -1,4 +1,4 @@
-const ListaDePecas = ['Peca de teste', 'Ar', 'Peca B']
+const ListaDePecas = ['Peca 1', 'peca 2', 'Peca 3', 'Peca 4']
 console.log('Quantidade de caracteres')
 
 if (ListaDePecas.length <= 10) {
